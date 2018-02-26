@@ -4,7 +4,7 @@ title: on muslim futures
 categories:
 - blog
 ---
-
+I am writings a test. 
 *Note: This article of mine, aimed at Muslims qua Muslims, was originally published 07/21/2016 by [Convivencia Magazine](https://convivencia.co/debating-muslim-futures-between-pragmatists-and-principlists-b66f9c7831a1), in the wake of the Pulse shooting. I think the debate is still ongoing internally within the American Muslim community...*
 
 To say that recent events have given the American Muslim community pause would be an understatement.
