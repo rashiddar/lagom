@@ -3,8 +3,7 @@ layout: post
 title: on Islam and Black Panther's meek futurism
 categories:
 - blog
-​---
-
+---
 One of my guilty pleasures is anything produced by Marvel Studios, and so when *Black Panther* came out, I made sure to see it right away. It was arguably one of the best films Marvel has produced, and I'm very happy to see it continue to shatter box-office records. There is much more positive to say than there is negative.
 
 With that said, there is one unimaginative aspect of the film I wish to zero in on, and then draw attention to its wider implications. The film is wildly popular and so I'm not under any impression that this post will win me cool points, but I've been meaning to get this out of me for a while now.
