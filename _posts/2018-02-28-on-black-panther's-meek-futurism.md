@@ -24,7 +24,7 @@ I don't know how this critique could fit into the *Black Panther*'s story arc. B
 
 Part of *Black Panther*'s appeal was that it gave its viewers an image of the world where non-whites were not simply equal to whites, but actually superior in pretty much every way—technologically, scientifically, militarily, everything. The movie thus expanded the horizon of what is possible in the imagination of all those watching, especially for those of African background. For that, it should be thunderously applauded.
 
-Yet in one critical and telling aspect—that of actually instituting a brave new order, however uncomfortably necessary it may be—it fell short, a kind of meek Afro-futurism. Overall, this is a minor point, especially in relation to the regular dumpster fire of stereotypical nonsense coming out of Hollywood. But if *Black Panther* taught us anything, it's that dreaming big and dreaming dangerously matters. A small point of reflection as we all tirelessly wait for the sequel.
+Yet in one critical and telling aspect—that of actually instituting a brave new order, however uncomfortably necessary it may be—it fell short, a kind of meek Afro-futurism. Overall, this is a minor point, especially in relation to the regular dumpster fire of stereotypical nonsense coming out of Hollywood. But if *Black Panther* taught us anything, it's that dreaming big and dreaming rebelliously matters. A small point of reflection as we all tirelessly wait for the sequel.
 
 [^1]: See A.I. Akram, *[Khalid bin Waleed: Sword of Allah](https://archive.org/stream/KhalidBinAl-waleedSwordOfAllah.pdf/KhalidBinAl-waleedSwordOfAllah#page/n61/mode/2up/search/column)*.
 [^2]: Ibid.
