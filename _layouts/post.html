@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p class="meta">
-  {{ page.date | date: "%B %d, %Y" }} 
+  {{ page.date | date: "%B %d, %Y" }}
   <a href="/">
     <i class="home fa fa-home"></i>
   </a>
@@ -14,7 +14,17 @@ layout: default
 <div id="post">
   {{ content }}
 </div>
+<!-- SOCIAL MEDIA BUTTONS-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes_flat.css">
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes.min.js"></script>
+
+<center>share link on: <div class="social-likes">
+	<div class="facebook" title="Share link on Facebook">Facebook</div>
+	<div class="twitter" data-via="rashiddar" title="Share link on Twitter">Twitter</center></div>
+</div>
+<!--RELATED POSTS-->
 <div id="related">
   <h3>Related Posts</h3>
   <ul class="posts">
