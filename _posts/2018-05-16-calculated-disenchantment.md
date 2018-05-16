@@ -30,6 +30,6 @@ To summarize:
 
 Yes, moonsighting can be onerous. Yes, you may not be able to tell your boss in advance what day you need off, or when your kid might need to be taken out of school. Or maybe, one part of your extended family insists on following calculations, dividing you down the middle. But these are small issues, almost all of which have workarounds and are of little consequence. 
 
-By embracing these small annoyances, one gains so much in return. A chance to connect with that luminous moon Allah has placed in the heavens above, which proclaims and exalts His holy name at all times in all states. A feeling of anticipation and joy when the moon is finally sighted. A night of excitement as the first jama'ah of tarawīh is hastily assembled at the masjid. And ultimately, the indescribable sweetness of submitting the entirety of your body, mind, and soul to the Lord above.
+By embracing these small annoyances, one gains so much in return. A chance to connect with that luminous moon Allah has placed in the heavens above, which proclaims and exalts His holy name at all times in all states. A feeling of anticipation and joy when the moon is finally sighted. A night of excitement as the first _jama'ah_ of _tarawīh_ is hastily assembled at the _masjid_. And ultimately, the indescribable sweetness of submitting the entirety of your body, mind, and soul to the Lord above.
 
 Honor this process. The world has enough disenchantment as it is.
