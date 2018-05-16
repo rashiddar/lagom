@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title: calculated disenchantment
+categories:
+- blog
 ---
 
 The dead horse that is the annual Muslim debate over moonsighting versus calculations is at this point beyond beaten. The poor guy is at this point a pile of bones, now being grinded into dust.
