@@ -2,7 +2,8 @@
 layout: post
 title: calculated disenchantment
 categories:
-- blog
+  - blog
+published: true
 ---
 
 The dead horse that is the annual Muslim debate over moonsighting versus calculations is at this point beyond beaten. The poor guy is at this point a pile of bones, now being grinded into dust.
@@ -15,7 +16,7 @@ In the Western philosophical tradition, [Max Weber](https://www.britannica.com/t
 
 > ...transparent and demystified. Theological and supernatural accounts of the world involving gods and spirits, for example, ceased to be plausible. Instead, one put one’s faith in the ability of science to eventually explain everything in rational terms. But, for Weber, **the effect of that demystification was that the world was leeched of mystery and richness**. It became disenchanted and disenchanting, predictable and intellectualized. In that sense, the disenchantment of the world is the alienating and undesirable flip side of scientific progress.
 
-According to the Stanford Encyclopedia of Philosophy, disenchantment really got its wheels when a critical mass in society insisted that all human activity ought to be conducted as "rational action," and that recourse to other rubrics was essentially a sign of backwardness.
+According to the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weber/), disenchantment really got its wheels when a critical mass in society insisted that all human activity ought to be conducted as "rational action," and that recourse to other rubrics was essentially a sign of backwardness.
 
 > Rational action in one very general sense presupposes knowledge. It requires some knowledge of the ideational and material circumstances in which our action is embedded, since to act rationally is to act on the basis of conscious reflection about the probable consequences of action. As such, the knowledge that underpins a rational action is of a causal nature conceived in terms of means-ends relationships, aspiring towards a systematic, logically interconnected whole. **Modern scientific and technological knowledge is a culmination of this process that Weber called intellectualization, in the course of which, the germinating grounds of human knowledge in the past, such as religion, theology, and metaphysics, were slowly pushed back to the realm of the superstitious, mystical, or simply irrational. It is only in modern Western civilization, according to Weber, that this gradual process of disenchantment (_Entzauberung_) has reached its radical conclusion.**
 
