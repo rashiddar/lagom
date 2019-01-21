@@ -1,6 +1,6 @@
 ---
 layout: post
-title: resource guide for young, committed Muslims aspiring to work in foreign policy
+title: resource guide for young Muslims aspiring to work in policy
 categories:
   - blog
 published: true
