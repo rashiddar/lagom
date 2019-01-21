@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-Every few weeks or so, I receive a request from young Muslims early in their career seeking advice on how best to break into the policy community, specifically at the intersection of foreign policy and Islam (my focus in this post). It's an understandable ask, and so I often find myself obliging. The fact is that our community still yet lacks social and intellectual capital in this line of work, and its shadowy enough as it is without a few guideposts along away. I myself can only be considered mid-career at best. 
+Every few weeks or so, I receive a request from a young Muslim early in his or her career seeking advice on how best to break into the policy community, specifically at the intersection of foreign policy and Islam (my focus in this post). It's an understandable ask, and so I often find myself obliging. The fact is that our community still yet lacks social and intellectual capital in this line of work, and its shadowy enough as it is without a few guideposts along away. I myself can only be considered mid-career at best. 
 
 This will be a brief and unstructured post, and I hope to continue to add to it as my learnings get sharper. Consider it a perpetual work-in-progress.
 
